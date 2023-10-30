@@ -1,7 +1,7 @@
 # python-api-challenge
 python-api-challenge
 
-# Weatherpy/Vacationpy
+# WeatherPy/VacationPy
 Weatherpy : Analyze weather from equator to poles. like Max.Temperatures, Humidity, Cloudiness and Wind Speeds
 Vacationpy: Find Cities with ideal condition for a vacation and find suitable hotels with in 10000 meteres of the city.
 
